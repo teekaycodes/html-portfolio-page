@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+p{
+    color: white;
+    text-align: center;
+}
+img{
+    border: 5px solid white; 
+    width: 100%;
+}
+.ayo{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+footer{
+    color: aliceblue;
+    margin-top: 350px;
+}
